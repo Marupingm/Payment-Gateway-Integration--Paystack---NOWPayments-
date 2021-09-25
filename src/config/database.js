@@ -37,4 +37,4 @@ const initializeDatabase = async () => {
 module.exports = {
   pool,
   initializeDatabase
-}; 
+}; // Modified on 2025-02-20 13:47:35
